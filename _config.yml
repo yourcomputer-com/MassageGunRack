@@ -12,12 +12,3 @@ defaults:
       path: "content"
     values:
       permalink: /:basename/
-
-
-nav_order:
-  - Home
-  - Assembly & Installation
-  - Adjustments & Usage
-  - Troubleshooting & FAQs
-  - Product Variations & Accessories
-  - Licensing & Legal

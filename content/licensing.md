@@ -1,6 +1,7 @@
 ---
 title: Licensing & Legal
 layout: default
+nav_order: 6
 ---
 
 # Licensing & Legal

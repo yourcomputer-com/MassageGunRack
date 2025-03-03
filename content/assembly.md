@@ -1,6 +1,7 @@
 ---
 title: Assembly & Installation
 layout: default
+nav_order: 3
 ---
 
 # Assembly & Installation
