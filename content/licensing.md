@@ -11,10 +11,11 @@ MGRack is designed for personal and professional use under the following conditi
 - The product should not be modified or altered beyond its intended use.
 - Unauthorized reproduction of any proprietary components is prohibited.
 - Commercial use of the design for resale or redistribution is not allowed without permission.
+- Commercial licenses are available via our Patreon page.
 
 ## Warranty & Support
 ### Warranty Coverage
-- MGRack comes with a **12-month limited warranty** covering manufacturing defects.
+- MGRack comes with a **120-day limited warranty** covering manufacturing defects.
 - Warranty does not cover damage due to misuse, improper installation, or modifications.
 - Proof of purchase is required for all warranty claims.
 
