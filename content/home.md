@@ -9,9 +9,7 @@ nav_order: 1
 ## Introduction to MGRack
 Massage Gun Rack, hereafter abbreviated as "MGRack," is an adjustable, wall-mounted rack designed to hold your massage gun for a hands-free self-massage. It allows users to securely mount their massage gun and adjust its position for optimal muscle relief.
 
-![MGRack Isometric View](./images/IsometricViewHorizontal.png)
-![MGRack Isometric View]({{ site.baseurl }}/images/IsometricViewHorizontal.png)
-
+![MGRack Isometric View]({{ site.baseurl }}/content/images/IsometricViewHorizontal.png)
 
 MGRack is currently a **DIY-style project** that requires users to **3D print many of the parts**. Additionally, some **hardware components** such as **linear rails, track sliders, nuts, and bolts** must be sourced separately by the user. A complete list of required parts, along with sourcing links, can be found in the **Bill of Materials (BOM)**.
 
