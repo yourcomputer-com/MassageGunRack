@@ -18,6 +18,7 @@ layout: home
 
 3. [Assembly & Installation](content/assembly.md)
    - Tools & Parts Needed
+   - Sourcing all the Parts
    - Step-by-Step Assembly Guide
    - Mounting Instructions (Wall Installation)
 
